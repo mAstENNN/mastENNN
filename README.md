@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
  Im Muhammad sharif
  Currently a Comupter Science student @ UIC
  
