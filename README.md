@@ -1,9 +1,9 @@
-### Hi there
+### Hi
  Im Muhammad sharif
  Currently a Comupter Science student @ UIC
  
  
- I’m currently working on small poject called SEED. the project monitor soil contecnt of a plant using an andruno board and    sent collected information to the a app. this app help monitor house plant to make sure they are the right amout of nutrients
+I’m currently working on small poject called SEED. the project monitor soil contecnt of a plant using an andruno board and    sent collected information to an app. this app help monitor house plant to make sure they have the right amout of nutrients
  
  
 <!--
